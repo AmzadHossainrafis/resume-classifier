@@ -20,7 +20,7 @@ This project is a resume classifier that uses a Naive Bayes classifier to classi
 ## how to use script
 
  1. cd into src/componenet
- 2. download pretrain model from [here](https://drive.google.com/file/d/1-0Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z/view?usp=sharing)
+ 2. download pretrain model from [here](https://drive.google.com/drive/folders/1qnPQWVQxN0ig5aPtWr9av-Kc_4FsZ2Qk?usp=sharing)
  3. paste this model in the src/componenet folder 
  4. run the command `python script.py --path <path to resumes>`
 
